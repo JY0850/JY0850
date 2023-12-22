@@ -1,4 +1,6 @@
-### Hey, I'm Jason 👋🏻
+# Hey, I'm Jason 👋🏻
+
+## About Me
 - 🏫 IB Student 
 - 💻 Coding & Computer Science Enthusiast
 - 🎹 Music Production & Creation Geek
