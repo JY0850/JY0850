@@ -1,5 +1,5 @@
 # Hey, I'm Jason 👋🏻
-Welcome to my GitHub Page 🥳
+Welcome to my GitHub Page 🥳, feel free to check out some projects I have.
 
 ## About Me
 - 🏫 IB Student 
