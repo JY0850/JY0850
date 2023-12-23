@@ -1,9 +1,9 @@
 # Hey, I'm Jason 👋🏻
-Welcome to my GitHub Page 🥳, feel free to check out some projects I have.
+Welcome to my GitHub Page 🥳! Feel free to check out some projects I am working on.
 
 ## About Me
-- 🏫 IB Student 
-- 💻 Coding & Computer Science Enthusiast
+- 🏫 IB DP Student 
+- 💻 Computer Science & IT Enthusiast
 - 🎹 Music Production & Creation Geek
 
 
