@@ -4,7 +4,7 @@ Welcome to my GitHub Page 🥳! Feel free to check out some projects I am workin
 ## About Me
 - 🏫 IB DP Student 
 - 💻 Computer Science & IT Enthusiast
-- 🎹 Music Production & Creation Geek
+- 🎹 Music Production Geek
 
 
 
